@@ -19,6 +19,6 @@
     },
     "minimum-stability": "dev",
     "require": {
-        "web-scientist/postman": "*"
+        "webscientist/postman": "*"
     }
 }
