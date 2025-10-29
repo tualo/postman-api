@@ -7,7 +7,7 @@ use Tualo\Office\Basic\Route;
 use Tualo\Office\Basic\IRoute;
 use WebScientist\Postman\Services\PostmanService as Postman;
 
-class Test implements IRoute
+class Test extends \Tualo\Office\Basic\RouteWrapper
 {
 
     public static function register()
